@@ -1,0 +1,16 @@
+E:\Desctop\Homework\Control_itog\bin\Debug\net6.0\Control_itog.exe
+E:\Desctop\Homework\Control_itog\bin\Debug\net6.0\Control_itog.deps.json
+E:\Desctop\Homework\Control_itog\bin\Debug\net6.0\Control_itog.runtimeconfig.json
+E:\Desctop\Homework\Control_itog\bin\Debug\net6.0\Control_itog.dll
+E:\Desctop\Homework\Control_itog\bin\Debug\net6.0\ref\Control_itog.dll
+E:\Desctop\Homework\Control_itog\bin\Debug\net6.0\Control_itog.pdb
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.GlobalUsings.g.cs
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.csproj.AssemblyReference.cache
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.AssemblyInfoInputs.cache
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.AssemblyInfo.cs
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.csproj.CoreCompileInputs.cache
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.dll
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\ref\Control_itog.dll
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.pdb
+E:\Desctop\Homework\Control_itog\obj\Debug\net6.0\Control_itog.genruntimeconfig.cache
